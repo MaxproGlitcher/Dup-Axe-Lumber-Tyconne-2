@@ -4,5 +4,5 @@ Just a script to show how it's possible to reverse-engineer the game. If you see
 # Script Loadstring Here ⬇️
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/MaxproGlitcher/Dup-Axe-Lumber-Tyconne-2/refs/heads/main/.luau)"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MaxproGlitcher/Dup-Axe-Lumber-Tyconne-2/refs/heads/main/.luau"))()
 ```
